@@ -19,4 +19,4 @@
 
 ## Стек
 
-`Python`, `Pandas`, `Matplotlib`, `SciPy`, `NumPy`, `Matplotlib`, `Seaborn`, `BeautifulSoup`, `lxml`, `Requests`, `Datetime`, `Re (регулярные выражения)`, `Excel`, `Google sheets`, `PowerPoint`, `PowerQuery`, `HTML`, `Поиск информации в интернет`, `Аналитическое мышление`, `DataLens`, `SQL`.
+`Python`, `Pandas`, `Matplotlib`, `SciPy`, `NumPy`, `Seaborn`, `BeautifulSoup`, `lxml`, `Requests`, `Datetime`, `Re (регулярные выражения)`, `Excel`, `Google sheets`, `PowerPoint`, `PowerQuery`, `HTML`, `Поиск информации в интернет`, `Аналитическое мышление`, `DataLens`, `SQL`.
